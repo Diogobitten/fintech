@@ -13,7 +13,7 @@ This repository contains the source code for a login page designed for a fintech
 
 The login page provides a simple and intuitive interface for users to enter their email addresses and passwords. The background features a gradient with a subtle dotted pattern, and the form elements are centered on the page for easy access.
 
-![Screenshot](screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## Features
 
