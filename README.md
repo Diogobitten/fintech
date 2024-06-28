@@ -35,3 +35,11 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/fintech-login-page.git
+
+2. **Navigate to the project directory:**
+   ```sh
+   cd fintech-login-page
+3. **Open the index.html file in your browser to view the login page:**
+   ```sh
+   open index.html
+   
